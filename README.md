@@ -24,10 +24,6 @@ This project was created to:
 - Practice core JavaScript concepts
 - Understand DOM manipulation
 - Build a real project for resume and GitHub portfolio
-
-## 📸 Screenshot
-_(You can add a screenshot later if you want)_
-
 ## 👨‍💻 Author
 **Ansh**  
 GitHub: [Ansh-coder-ux365](https://github.com/Ansh-coder-ux365)
